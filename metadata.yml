@@ -1,0 +1,14 @@
+---
+:id: 78041225
+:submitters:
+- :name: Younghyun Jung
+  :email: jung0303@umn.edu
+- :name: Hyunjay Lee
+  :email: leex8451@umn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-05-03 18:41:14.076619000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-05-03 11:41:14.076619000 Z
+:status: processed
+:score: 100.0
