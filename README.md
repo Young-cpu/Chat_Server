@@ -1,6 +1,6 @@
 # Chat Server/Client
 
-This is the second project from CSCI 4061 in University of Minnesota - Twin Cities. This project focuses on developing a simple chat server and client called blather. The basic usage is in two parts.
+This is the second project from CSCI 4061 in University of Minnesota - Twin Cities, and I utilized the C to finish this project. This project focuses on developing a simple chat server and client called blather. The basic usage is in two parts.
 
 ### Server
 ---
